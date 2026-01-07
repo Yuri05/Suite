@@ -5,6 +5,11 @@ on:
   pull_request:
     branches:
     - develop
+    paths-ignore:
+    - '*.md'
+    - 'OSP_software_landscape.*'
+    - 'versions.*'
+    - 'validation and qualification/**'
 
 env:
   WIX: "C:/Program Files (x86)/WiX Toolset v3.14"
