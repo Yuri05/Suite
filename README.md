@@ -61,6 +61,10 @@ The OSP software suite provides a comprehensive set of packages for the R comput
 - **[ospsuite.reportingengine](https://www.open-systems-pharmacology.org/OSPSuite.ReportingEngine/)** - Automated generation of model evaluation reports
 - **[ospsuite.parameteridentification](https://github.com/Open-Systems-Pharmacology/OSPSuite.ParameterIdentification)** - Parameter identification and model fitting capabilities
 
+### AI/agentic PBPK workflow
+
+See **[AI/Agentic PBPK Model Setup Outline (OSP Suite)](AI_AGENTIC_PBPK_WORKFLOW.md)** for a step-by-step outline on how to orchestrate PK-Sim®, MoBi®, OSPSuite-R, and qualification tools with AI support.
+
 **OSP Qualification Framework and R packages are not included in the main OSP Suite setup and must be installed separately. Installation instructions are provided in the documentation of the tools or on the GitHub download site.**
 
 ### OSP Model exchange format
