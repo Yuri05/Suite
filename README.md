@@ -63,6 +63,12 @@ The OSP software suite provides a comprehensive set of packages for the R comput
 
 **OSP Qualification Framework and R packages are not included in the main OSP Suite setup and must be installed separately. Installation instructions are provided in the documentation of the tools or on the GitHub download site.**
 
+### AI / Agentic Workflows
+
+The OSP Suite is designed to support advanced agentic and AI-assisted modeling workflows. A detailed guide for setting up a PBPK model in OSP using AI/Agentic workflows is available here:
+
+🤖 **[PBPK Modeling with AI / Agentic Workflows](PBPK_AGENTIC_WORKFLOW.md)** — Covers required inputs, iterative model refinement cycles, OSP tool integration, and AI tool orchestration for automated PBPK model development.
+
 ### OSP Model exchange format
 
 Models created in PK-Sim® or MoBi® can be exported in *PK Modeling Language* (***.pkml**) format and shared between the OSP tools. Internally, PKML file format is nothing more than XML with a predefined structure.
